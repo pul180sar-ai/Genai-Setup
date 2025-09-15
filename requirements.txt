@@ -1,1 +1,2 @@
-GOOGLE.generativeai as genai
+google.generativeai as genai
+streamlit
